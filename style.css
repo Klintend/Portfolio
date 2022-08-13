@@ -96,7 +96,7 @@ header .nav ul li a{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url("/images/text.jpg");
+  background: url(/images/text.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
