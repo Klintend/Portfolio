@@ -54,10 +54,10 @@ li {
   padding: 0 1.25rem;
 }
 
-li a {
+/* li a {
   color: #000;
   text-decoration: none;
-}
+} */
 
 .nav-toggle {
   display: none;
@@ -81,6 +81,7 @@ header .nav ul {
 header .nav ul li {
  list-style-type: none;
  padding: 10px;
+ color: white;
 }
 
 header .nav ul li a{
