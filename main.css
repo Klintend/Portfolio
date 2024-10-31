@@ -27,8 +27,8 @@ section {
 /* Header  */
 header {
    width: 100%;
-  background: #050505;
-  color: rgb(10, 10, 10);
+  background: #ffe6e6;
+  color: rgb(253, 253, 253);
  padding: 15px 200px;
  display: flex;
  justify-content: space-between;
