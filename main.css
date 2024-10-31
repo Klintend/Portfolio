@@ -28,7 +28,7 @@ section {
 header {
    width: 100%;
   background: #eaeaea;
-  color: white;
+  color: rgb(10, 10, 10);
  padding: 15px 200px;
  display: flex;
  justify-content: space-between;
