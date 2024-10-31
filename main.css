@@ -49,9 +49,14 @@ ul {
   padding: 0;
 }
 
+main .kli {
+  text-transform: capitalize;
+}
+
 li {
   display: inline-block;
   padding: 0 1.25rem;
+  
 }
 
 li a {
