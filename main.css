@@ -45,7 +45,7 @@ header {
   padding: 0 1rem;
 }
 
-/* ul {
+ul {
   padding: 0;
 }
 
@@ -57,7 +57,7 @@ li {
 li a {
   color: #000;
   text-decoration: none;
-} */
+}
 
 .nav-toggle {
   display: none;
@@ -74,7 +74,7 @@ li a {
   display: none;
 }
 
-header .nav ul {
+/* header .nav ul {
  display: flex;
 } 
 
@@ -87,7 +87,7 @@ header .nav ul li {
 header .nav ul li a{
  text-decoration: none;
  color: white;
-}
+} */
 
 /* Header ended */
 
